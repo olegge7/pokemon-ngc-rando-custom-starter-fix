@@ -1,3 +1,8 @@
+## This is a fork
+
+This is a fork of the original project. The only thing changed was logic to implement randomization of Colosseum custom starter moves in accordance to the selected move randomization logic.
+
+
 # Pokemon NGC Rando
 
 A randomizer for the GC Pokemon games written in C#.
